@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/m/in/vinayak-goel-208174314/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/vingw009">
+  <a href="https://codeforces.com/profile/Vingw009">
     <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1f8bcb?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   </a>
 </p>
