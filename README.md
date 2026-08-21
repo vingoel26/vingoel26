@@ -46,40 +46,6 @@
 
 ---
 
-## 🚀 Featured Engineering
-
-### 🌌 Eduverse AI Tutor
-A state-of-the-art AI tutoring backend engine utilizing agentic orchestration for an interactive, stateful experience.
-* **Tech:** Python, FastAPI, LangGraph, Groq (Llama-3, Whisper, Vision), PostgreSQL.
-* **Highlights:** Multi-modal media processing (Video, Audio, PDF) via FFmpeg and PyMuPDF. Features persistent conversation histories using `langgraph-checkpoint-postgres` with custom pooling and secure Google OAuth integration.
-
-### 🟢 AI Crack Detection System (Infra_scan)
-An end-to-end computer vision pipeline designed for structural analysis.
-* **Tech:** Python, FastAPI, Docker, Computer Vision, Java.
-* **Highlights:** Scalable backend architecture with containerized deployment for real-time model inference.
-
-### 🤟 ASL Language Detection
-A machine learning application built to recognize and interpret American Sign Language in real-time.
-* **Tech:** Python, Computer Vision, Machine Learning.
-* **Highlights:** Custom model training and real-time inference optimization for high-accuracy gesture tracking.
-
-### 🔵 Codefolio
-A comprehensive developer community platform tailored for programmers and coding enthusiasts.
-* **Tech:** React, Node.js, WebSockets.
-* **Highlights:** Features a live CF battle arena, public developer profiles, integrated coding data, and a unified community blog section.
-
-### 🟡 Chance (Web3 Staking & dApp)
-A decentralized application integrating smooth UI interactions with blockchain state management.
-* **Tech:** React, Tailwind, Solidity, Hardhat, Ethers.js.
-* **Highlights:** Custom smart contracts, on-chain state storage, and dynamic front-end rendering with real-time animations.
-
-### 🎲 TryNotToLose
-A highly interactive, state-driven application focusing on user retention and real-time logic.
-* **Tech:** JavaScript, WebSockets, Frontend Frameworks.
-* **Highlights:** Complex real-time state management and seamless user experience design.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
